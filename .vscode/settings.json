@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "xloctime": "cpp",
+        "matrixfunctions": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "format": "cpp",
+        "forward_list": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "regex": "cpp",
+        "set": "cpp",
+        "span": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "memory": "cpp",
+        "type_traits": "cpp",
+        "ranges": "cpp",
+        "alignedvector3": "cpp"
+    }
+}
